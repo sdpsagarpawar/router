@@ -1,4 +1,4 @@
-module router
+module github.com/sdpsagarpawar/router
 
 go 1.18
 
