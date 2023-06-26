@@ -1,0 +1,4 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/sdpsagarpawar/logger v1.0.2 h1:O6nYWhWUkmq+2wSk2heMRkDHKtIX1Pj9ckSZLsboFG0=
+github.com/sdpsagarpawar/logger v1.0.2/go.mod h1:Hu0F+KD2OGNp9zJ3wku28OGpnPjZwHuXXR0EUERIAoA=
